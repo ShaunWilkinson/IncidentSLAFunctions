@@ -9,6 +9,7 @@ using Microsoft.Xrm.Sdk.Workflow;
 namespace IncidentSLAFunctions
 {
     
+    // test
     // Calculates the elapsed time between the start date and the current date within a case
     public class GetElapsedTime : CodeActivity
     {
